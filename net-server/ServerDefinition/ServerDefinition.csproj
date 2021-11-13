@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\openscource\MagicOnion\src\MagicOnion.Abstractions\MagicOnion.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\..\openscource\MagicOnion\src\MagicOnion.Client\MagicOnion.Client.csproj" />
+    <ProjectReference Include="..\..\..\..\openscource\MagicOnion\src\MagicOnion\MagicOnion.csproj" />
+  </ItemGroup>
+
+</Project>
